@@ -1,1 +1,1 @@
-# Computer Vision course
+# Computer Vision Course
